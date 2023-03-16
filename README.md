@@ -1,11 +1,17 @@
 # MLonMUA
 
 pc01 = 2001 Indian Population Census
+
 ec98 = 1998 Economic Census
+
 ec05 = 2005 Economic Census
+
 emp  = employment
+
 vd   = village directory (village amenities/public goods table)
+
 pca  = population census abstract (demographic data)
+
 
 Note that the pc01_*_id variables are ID variables that can be used to identify villages and districts. 
 
